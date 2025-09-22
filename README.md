@@ -1,7 +1,6 @@
 # team5-climatechange-trends
 
-### How to Run
-1. Navigate to the 01_explore.ipynb file and click the button at the top that says "Open in Colab"
-2. Once in Google Colab, go to File > Save a copy in drive
-3. Close the original, go to the copy
-4. Go to Runtime > Run all
+### How to Run 01_explore.ipynb
+1. Download the 01_explore.ipynb file to your computer
+2. Once downloaded, drag the file to Google Drive
+3. After it finishes uploading, you can then click to open in Google Collaboratory and run
