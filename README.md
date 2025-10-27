@@ -11,4 +11,10 @@
 3. Click button that says “Open in Colab”
 4. Copy to drive and run
 
+How to run 03_structure.ipynb
+1. Navigate to the notebooks file
+2. Click on 03_structure.ipynb
+3. Click button that says “Open in Colab”
+4. Copy to drive and run
+
 #### note: the dataset should automatically load once you run the colab notebooks
