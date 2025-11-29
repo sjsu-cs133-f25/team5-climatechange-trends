@@ -28,4 +28,10 @@
 2. Download this file
 3. Open it in a browser
 
+### How to run 05_predictive_model.ipynb
+1. Navigate to the notebooks file
+2. Click on 05_predictive_model.ipynb
+3. Click button that says “Open in Colab”
+4. Copy to drive and run
+
 #### note: the dataset should automatically load once you run the colab notebooks
